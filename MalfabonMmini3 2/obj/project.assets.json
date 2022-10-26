@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/michellemalfabon/.nuget/packages/": {}
+    "/Users/Angelica/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/michellemalfabon/Desktop/Codestack/Combine/MalfabonMmini3 2/MalfabonMmini3.csproj",
+      "projectUniqueName": "/Users/Angelica/Documents/Night Class Lectures/PeerReview/AskingQuestionsMich/AskingQs3/MalfabonMmini3 2/MalfabonMmini3.csproj",
       "projectName": "MalfabonMmini3",
-      "projectPath": "/Users/michellemalfabon/Desktop/Codestack/Combine/MalfabonMmini3 2/MalfabonMmini3.csproj",
-      "packagesPath": "/Users/michellemalfabon/.nuget/packages/",
-      "outputPath": "/Users/michellemalfabon/Desktop/Codestack/Combine/MalfabonMmini3 2/obj/",
+      "projectPath": "/Users/Angelica/Documents/Night Class Lectures/PeerReview/AskingQuestionsMich/AskingQs3/MalfabonMmini3 2/MalfabonMmini3.csproj",
+      "packagesPath": "/Users/Angelica/.nuget/packages/",
+      "outputPath": "/Users/Angelica/Documents/Night Class Lectures/PeerReview/AskingQuestionsMich/AskingQs3/MalfabonMmini3 2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/michellemalfabon/.nuget/NuGet/NuGet.Config"
+        "/Users/Angelica/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

@@ -28,3 +28,18 @@
 /Users/michellemalfabon/Desktop/Codestack/Combine/MalfabonMmini3 2/obj/Debug/net6.0/MalfabonMmini3.pdb
 /Users/michellemalfabon/Desktop/Codestack/Combine/MalfabonMmini3 2/obj/Debug/net6.0/MalfabonMmini3.genruntimeconfig.cache
 /Users/michellemalfabon/Desktop/Codestack/Combine/MalfabonMmini3 2/obj/Debug/net6.0/ref/MalfabonMmini3.dll
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/AskingQuestionsMich/AskingQs3/MalfabonMmini3 2/bin/Debug/net6.0/MalfabonMmini3
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/AskingQuestionsMich/AskingQs3/MalfabonMmini3 2/bin/Debug/net6.0/MalfabonMmini3.deps.json
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/AskingQuestionsMich/AskingQs3/MalfabonMmini3 2/bin/Debug/net6.0/MalfabonMmini3.runtimeconfig.json
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/AskingQuestionsMich/AskingQs3/MalfabonMmini3 2/bin/Debug/net6.0/MalfabonMmini3.dll
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/AskingQuestionsMich/AskingQs3/MalfabonMmini3 2/bin/Debug/net6.0/MalfabonMmini3.pdb
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/AskingQuestionsMich/AskingQs3/MalfabonMmini3 2/obj/Debug/net6.0/MalfabonMmini3.csproj.AssemblyReference.cache
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/AskingQuestionsMich/AskingQs3/MalfabonMmini3 2/obj/Debug/net6.0/MalfabonMmini3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/AskingQuestionsMich/AskingQs3/MalfabonMmini3 2/obj/Debug/net6.0/MalfabonMmini3.AssemblyInfoInputs.cache
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/AskingQuestionsMich/AskingQs3/MalfabonMmini3 2/obj/Debug/net6.0/MalfabonMmini3.AssemblyInfo.cs
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/AskingQuestionsMich/AskingQs3/MalfabonMmini3 2/obj/Debug/net6.0/MalfabonMmini3.csproj.CoreCompileInputs.cache
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/AskingQuestionsMich/AskingQs3/MalfabonMmini3 2/obj/Debug/net6.0/MalfabonMmini3.dll
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/AskingQuestionsMich/AskingQs3/MalfabonMmini3 2/obj/Debug/net6.0/refint/MalfabonMmini3.dll
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/AskingQuestionsMich/AskingQs3/MalfabonMmini3 2/obj/Debug/net6.0/MalfabonMmini3.pdb
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/AskingQuestionsMich/AskingQs3/MalfabonMmini3 2/obj/Debug/net6.0/MalfabonMmini3.genruntimeconfig.cache
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/AskingQuestionsMich/AskingQs3/MalfabonMmini3 2/obj/Debug/net6.0/ref/MalfabonMmini3.dll

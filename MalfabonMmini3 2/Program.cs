@@ -7,6 +7,9 @@
 //Converted string into integer
 //Name and time were printed using string interpolation. 
 
+//Peer reviewed by: Angelica
+//Date: 10/25/22
+//Comment: game works well and allows me to replay the game. 
 
 int time;
 string wakeUp;
